@@ -5,7 +5,7 @@ This example shows how to use multiple tweens on the same animation controller, 
 
 # Preview
 
-| <img src="./preview/AnimatedWidgetLogo.gif" height="400" alt="Screenshot"/>  |
+<img src="./preview/AnimatedWidgetLogo.gif" height="400" alt="Screenshot"/>
  
 ## Questions?🤔
 
